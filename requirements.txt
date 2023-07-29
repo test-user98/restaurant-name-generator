@@ -1,0 +1,4 @@
+langchain
+streamlit
+google-search-results
+openai
